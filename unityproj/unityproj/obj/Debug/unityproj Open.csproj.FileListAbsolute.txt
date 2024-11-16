@@ -1,0 +1,7 @@
+C:\Users\Benji Skye\source\repos\unityproj Open\unityproj Open\obj\Debug\unityproj Open.csproj.AssemblyReference.cache
+C:\Users\Benji Skye\source\repos\unityproj Open\unityproj Open\obj\Debug\unityproj Open.csproj.CoreCompileInputs.cache
+C:\Users\Benji Skye\source\repos\unityproj Open\unityproj Open\bin\Debug\unityproj Open.exe.config
+C:\Users\Benji Skye\source\repos\unityproj Open\unityproj Open\bin\Debug\unityproj Open.exe
+C:\Users\Benji Skye\source\repos\unityproj Open\unityproj Open\bin\Debug\unityproj Open.pdb
+C:\Users\Benji Skye\source\repos\unityproj Open\unityproj Open\obj\Debug\unityproj Open.exe
+C:\Users\Benji Skye\source\repos\unityproj Open\unityproj Open\obj\Debug\unityproj Open.pdb

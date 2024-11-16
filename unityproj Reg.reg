@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.unityproj]
+@="exefile"
+"Content Type"="application/x-msdownload"
+
+[HKEY_CLASSES_ROOT\.unityproj\PersistentHandler]
+@="{098f2470-bae0-11cd-b579-08002b30bfeb}"
