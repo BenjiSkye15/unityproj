@@ -8,7 +8,7 @@ unityproj is a file with ext .unityproj OR exe that opens a unity project when y
 <br>NOTE: Project = Environment.CurrentDirectory
 <br>
 <br>NOTE: You must have unity installed and have this file sturcture:
-<br>    Project-V
+<br>     Project-V
 <br>        unityproj.unityproj or .exe
 <br>        ProjectSettings-V
-<br>                ProjectVersion.txt
+<br>               ProjectVersion.txt
